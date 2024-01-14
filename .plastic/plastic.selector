@@ -1,0 +1,4 @@
+repository "FIK Fetch@RiyooRell@cloud"
+  path "/"
+    br "/main"
+    co "/main"
