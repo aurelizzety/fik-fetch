@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/aurelizzety/fik-fetch/blob/main/FIK%20Fetch.png)
 Cover MacBook Design by [DesignFrames](https://deviceframes.com/)
 # FIK Fetch
 ## Description
