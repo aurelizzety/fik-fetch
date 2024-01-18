@@ -2,12 +2,12 @@
 Cover MacBook Design by [DesignFrames](https://deviceframes.com/)
 # FIK Fetch
 ## Description
-This repository contains 3D building architecture from my final project and my beloved for the Virtual Reality and Reality Augmentation course (Specialization 3.3). This 3D VR building architecture desktop application is called FIK Fetch, which is short for "Fakultas Ilmu Komputer Future Technology". FIK Fetch was created to provide a 3D prototype experience of the architectural design development of the FIK Hall building with the implementation of future technology. Through VR interaction, users are invited to explore spaces, observe unique architectural elements and feel the atmosphere that reflects the future of Fakultas Ilmu Komputer Future Technology.
+This repository contains 3D building architecture from my final project and my beloved man for the Virtual Reality and Reality Augmentation course (Specialization 3.3). This 3D VR building architecture desktop application is called FIK Fetch, which is short for "Fakultas Ilmu Komputer Future Technology". FIK Fetch was created to provide a 3D prototype experience of the architectural design development of the FIK Hall building with the implementation of future technology. Through VR interaction, users are invited to explore spaces, observe unique architectural elements and feel the atmosphere that reflects the future of Fakultas Ilmu Komputer Future Technology.
 
 FIK Fetch's playthrough can be watched on [YouTube](https://youtu.be/L-DlhbNLj4M).
 
 ## Authors
-FIK Fetch was created by me and my beloved man [@deandrasatriyosetiawan](https://github.com/deandrasatriyosetiawan)🤗🖤. FIK Fetch is our first 3D VR architecture project, we made FIK Fetch for one month, from November 8 to December 9, 2023. In this project, my beloved acted as the programmer, configuring the player's interaction with the environment using XR Interaction Toolkit, while I contributed to the architectural design, focusing on the building.
+FIK Fetch was created by me and my beloved man [@deandrasatriyosetiawan](https://github.com/deandrasatriyosetiawan)🤗🖤. FIK Fetch is our first 3D VR architecture project, we made FIK Fetch for one month, from November 8th to December 9th, 2023. In this project, my beloved contributed as the programmer, configuring the player's interaction with the environment using XR Interaction Toolkit, while I contributed to the architectural design, focusing on the building.
 
 For design aspects such as prototypes and more, you can check them out [here](https://www.behance.net/gallery/189204119/FIK-Fetch).
 
