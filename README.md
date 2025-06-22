@@ -33,3 +33,10 @@ Thank you very much for your constant motivation and trust during the developmen
 - To search for the game assets in Unity, please visit [assetstore.unity.com](https://assetstore.unity.com/)
 #### 2. Flaticon
 - To search for icons, please visit [www.flaticon.com](https://www.flaticon.com/)
+
+### ⚠ Important Notice Regarding Project Files
+We have removed files previously managed by Git LFS to avoid exceeding storage and bandwidth limits.
+
+As an alternative, these files are now available via Google Drive. You can download them from the following link: [Google Drive](https://drive.google.com/file/d/1tr-o7Vlb5bxaRBs8fbFyyQNXQnu4J005/view?usp=sharing).
+
+Note: Please maintain the original folder structure as provided in the Google Drive download to ensure the project works correctly.
